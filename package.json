@@ -1,0 +1,18 @@
+{
+  "name": "mealy-grp4-team2-backend",
+  "version": "1.0.0",
+  "description": "app that offers all kind of food services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mealy-grp4-team2-backend"
+  },
+  "author": "grp4-team2-backend-devs",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
